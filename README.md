@@ -20,7 +20,9 @@ _Create a GitHub Action and use it in a workflow._
 
 ## Finish
 
-_Congratulations friend, you've completed this course!_
+
+_You've now got a fully functioning workflow! :smile:_ :smile:_
+
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
@@ -33,12 +35,14 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 ### What's next?
 
-- Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://docs.github.com/actions/learn-github-actions)".
-- Use actions created by others in [awesome-actions](https://github.com/sdras/awesome-actions).
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions).
-- [Take another GitHub Skills course](https://github.com/skills).
-- Learn more about GitHub by reading the "[Get started](https://docs.github.com/get-started)" docs.
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+
+1. Make a new branch named `test-workflow`.
+1. Commit any change to your branch, such as adding an emoji to your README.md file.
+1. Create the pull request on your branch.
+1. See your action run on your pull request.
+1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
 
 <footer>
 
